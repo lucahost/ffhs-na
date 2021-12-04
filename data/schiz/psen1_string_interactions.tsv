@@ -1,4 +1,4 @@
-#node1	node2	node1_string_id	node2_string_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
+Source	Target	node1_string_id	node2_string_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
 APH1A	APH1B	9606.ENSP00000358105	9606.ENSP00000261879	0	0	0	0.955	0	0	0.900	0.923	0.904
 APH1A	NOTCH1	9606.ENSP00000358105	9606.ENSP00000277541	0	0	0	0	0.076	0.104	0.900	0.706	0.972
 APH1A	APP	9606.ENSP00000358105	9606.ENSP00000284981	0	0	0	0	0	0.800	0.900	0.873	0.997

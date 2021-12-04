@@ -1,4 +1,4 @@
-#node1	node2	node1_string_id	node2_string_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
+Source	Target	node1_string_id	node2_string_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
 AMT	MTHFD1	9606.ENSP00000273588	9606.ENSP00000216605	0.111	0	0	0	0.112	0.244	0.900	0.634	0.974
 AMT	MTRR	9606.ENSP00000273588	9606.ENSP00000264668	0	0	0	0	0.084	0	0	0.516	0.537
 AMT	MTR	9606.ENSP00000273588	9606.ENSP00000355536	0.053	0	0	0	0.063	0	0.900	0.455	0.945

@@ -1,4 +1,4 @@
-#node1	node2	node1_string_id	node2_string_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
+Source	Target	node1_string_id	node2_string_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
 ADH1B	ALDH2	9606.ENSP00000306606	9606.ENSP00000261733	0.049	0	0	0	0.140	0	0.900	0.916	0.992
 ADH1B	DRD2	9606.ENSP00000306606	9606.ENSP00000354859	0	0	0	0	0	0	0	0.504	0.504
 ADH1B	MAOB	9606.ENSP00000306606	9606.ENSP00000367309	0	0	0	0	0.104	0	0.650	0.203	0.728

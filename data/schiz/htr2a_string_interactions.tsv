@@ -1,4 +1,4 @@
-#node1	node2	node1_string_id	node2_string_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
+Source	Target	node1_string_id	node2_string_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
 DLG4	HTR2C	9606.ENSP00000382428	9606.ENSP00000276198	0	0	0	0	0.088	0.281	0	0.714	0.796
 DLG4	GRM3	9606.ENSP00000382428	9606.ENSP00000355316	0	0	0	0	0.107	0.262	0	0.334	0.523
 DLG4	GRM2	9606.ENSP00000382428	9606.ENSP00000378492	0	0	0	0	0.107	0.222	0	0.490	0.615

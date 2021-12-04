@@ -1,4 +1,4 @@
-#node1	node2	node1_string_id	node2_string_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
+Source	Target	node1_string_id	node2_string_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
 APBA2	CASK	9606.ENSP00000453293	9606.ENSP00000367408	0	0	0	0	0.062	0.717	0	0.644	0.897
 APBA2	NRXN1	9606.ENSP00000453293	9606.ENSP00000385142	0	0	0	0	0.120	0.234	0.600	0.822	0.946
 CASK	SYT1	9606.ENSP00000367408	9606.ENSP00000261205	0	0	0	0	0.063	0.057	0.900	0.292	0.929

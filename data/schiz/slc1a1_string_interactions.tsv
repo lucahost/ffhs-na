@@ -1,4 +1,4 @@
-#node1	node2	node1_string_id	node2_string_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
+Source	Target	node1_string_id	node2_string_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
 ARL6IP5	SLC1A1	9606.ENSP00000273258	9606.ENSP00000262352	0	0	0	0	0	0.270	0	0.968	0.976
 HCCS	SLC1A6	9606.ENSP00000326579	9606.ENSP00000221742	0	0	0	0	0	0.248	0	0.253	0.414
 HCCS	SLC1A1	9606.ENSP00000326579	9606.ENSP00000262352	0	0	0	0	0	0.400	0	0.642	0.776

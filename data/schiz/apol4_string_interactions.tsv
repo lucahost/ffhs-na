@@ -1,4 +1,4 @@
-#node1	node2	node1_string_id	node2_string_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
+Source	Target	node1_string_id	node2_string_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
 APOL4	C15orf26	9606.ENSP00000338260	9606.ENSP00000286732	0	0	0	0	0	0	0	0.459	0.459
 APOL4	OR10H5	9606.ENSP00000338260	9606.ENSP00000310704	0	0	0	0	0	0	0	0.504	0.504
 APOL4	OR10H1	9606.ENSP00000338260	9606.ENSP00000335596	0	0	0	0	0	0	0	0.460	0.459

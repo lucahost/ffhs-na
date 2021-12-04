@@ -1,4 +1,4 @@
-#node1	node2	node1_string_id	node2_string_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
+Source	Target	node1_string_id	node2_string_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
 CCL2	SDC1	9606.ENSP00000225831	9606.ENSP00000370542	0	0	0	0	0	0	0	0.489	0.489
 CCL2	IGF1	9606.ENSP00000225831	9606.ENSP00000302665	0	0	0	0	0	0	0	0.611	0.611
 CCL2	CHI3L1	9606.ENSP00000225831	9606.ENSP00000255409	0	0	0	0	0.085	0	0	0.638	0.655

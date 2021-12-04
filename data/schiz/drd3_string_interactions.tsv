@@ -1,4 +1,4 @@
-#node1	node2	node1_string_id	node2_string_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
+Source	Target	node1_string_id	node2_string_id	neighborhood_on_chromosome	gene_fusion	phylogenetic_cooccurrence	homology	coexpression	experimentally_determined_interaction	database_annotated	automated_textmining	combined_score
 ANKK1	DRD4	9606.ENSP00000306678	9606.ENSP00000176183	0	0	0	0	0.077	0.056	0	0.767	0.779
 ANKK1	SLC6A4	9606.ENSP00000306678	9606.ENSP00000261707	0	0	0	0	0.062	0	0	0.654	0.661
 ANKK1	SLC6A3	9606.ENSP00000306678	9606.ENSP00000270349	0	0	0	0	0.062	0	0	0.705	0.711
