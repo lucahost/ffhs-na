@@ -1,0 +1,9 @@
+Comparing measure "nodes": 6089 to     7779                                                 -> normalized: 0.0
+Comparing measure "edges": 11310 to     16212                                               -> normalized: 0.0
+Comparing measure "density": 0.0006101996901415685 to     0.0005358890467709958             -> normalized: 0.9999999944779283
+Comparing measure "avg_clustering": 0.4028058457924002 to     0.3837123705628701            -> normalized: 0.9996355056478718
+Comparing measure "wiener_index": 47421635.0 to     88595362.0                              -> normalized: 0.0
+Comparing measure "betweenness_centrality": 0.24113220240737393 to     0.08651975743891005  -> normalized: 0.9763784533590976
+Comparing measure "closness_centrality": 0.5689559815859238 to     0.4764818706922936       -> normalized: 0.9914849985565943
+Comparing measure "average_degree_connectivity": nan to     nan                             -> normalized: nan
+Comparing measure "local_clustering_coefficent": 0.396 to     0.357                         -> normalized: 0.9984801561342657
