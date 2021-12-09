@@ -1,0 +1,11 @@
+{
+  "nodes": 7779,
+  "edges": 16212,
+  "density": 0.0005358890467709958,
+  "avg_clustering": 0.3837123705628701,
+  "wiener_index": 88595362.0,
+  "betweenness_centrality": 0.08651975743891005,
+  "closness_centrality": 0.4764818706922936,
+  "average_degree_connectivity": "nan",
+  "local_clustering_coefficent": 0.357
+}
